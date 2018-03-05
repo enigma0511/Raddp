@@ -7,7 +7,7 @@ git config --global credential.helper wincred
 git add . 
 git commit -m "initial commit"
 git remote -v
-git remote set-url origin https://PriyankaRaddp:P1@github.com/PriyankaRaddp/Raddp.git
+git remote set-url origin https://PriyankaRaddp:Priya@1684@github.com/PriyankaRaddp/Raddp.git
 git remote add origin https://github.com/PriyankaRaddp/Raddp.git
 git push -u origin master 
 echo Press Enter...
